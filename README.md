@@ -3,6 +3,8 @@
 ## About This
 
 一般的に便利と思われる機能を追加していくSlack Bot。汎用性を追い求めていくぞ。
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 ## Slack App Require scopes
 
 * Oauth & Permissions
