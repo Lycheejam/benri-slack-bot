@@ -1,0 +1,23 @@
+{
+  "name": "benri-slack-bot",
+  "description": "便利なslack bot",
+  "repository": "https://github.com/Lycheejam/benri-slack-bot",
+  "env": {
+    "SLACK_BOT_TOKEN": {
+      "description": "slack bot token"
+    },
+    "SLACK_SIGNING_SECRET": {
+      "description": "slack signing secret"
+    },
+    "SLACK_LOG_LEVEL": {
+      "description": "log level",
+      "value": "info"
+    },
+    "EMOJI_NOTIFICATION_CHANNEL": {
+      "description": "絵文字通知先"
+    },
+    "NOTIFICATION_CHANNEL": {
+      "description": "チャンネル通知先"
+    }
+  }
+}
